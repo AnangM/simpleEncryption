@@ -1,7 +1,3 @@
-/**
- * @author Anang Ma'ruf Budiyanto
- * @author 18520244001
- */
 import java.util.Scanner;
 
 class Enkripsi{
